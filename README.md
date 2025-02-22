@@ -41,9 +41,3 @@ This processing is designed to work in the 1C:Enterprise system version 8.3 and 
 To use this processing, you will need an installed version of 1C:Enterprise. You can download it from [this link](https://1c.ru).
 
 ---
-
-## Лицензия / License
-
-Этот проект распространяется под лицензией MIT. Подробнее см. в файле [LICENSE](LICENSE).
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
